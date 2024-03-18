@@ -1,0 +1,13 @@
+"Linux中修改文件后立即生效
+
+"行号
+"set nu
+
+"语法高亮
+syntax on
+
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
+set expandtab
+set pastetoggle=<F9>
